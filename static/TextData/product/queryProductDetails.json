@@ -1,0 +1,127 @@
+{
+  "data": {
+    "id": 2143,
+    "insuranceCode": "I0002143",
+    "insuranceName": "可口可乐",
+    "channelId": 10308,
+    "channelName": "中国人保",
+    "insuranceType": 0,
+    "insuranceCategory": 0,
+    "insuranceClassify": 8,
+    "insuranceKindCode": "98895656",
+    "currency": 0,
+    "isGroup": 0,
+    "financialNo": "563256",
+    "startMoneyInclude": 0,
+    "startMoney": null,
+    "maxInsureShare": 12,
+    "calmnessDate": 0,
+    "insureNotice": "话费卡时间",
+    "insureDuty": "结婚可莱丝",
+    "memo": "备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注备注",
+    "insuranceStatus": 1,
+    "createId": "H002867",
+    "createName": "王羽",
+    "createTime": 1515067358000,
+    "updateId": "H002867",
+    "updateName": "王羽",
+    "updateTime": 1515067365000,
+    "channelCode": "CN-018",
+    "channelType": 0,
+    "insuranceFatherGenre": 0,
+    "insuranceSonType": 0,
+    "jointCorporation": 0,
+    "isDelete": 0,
+    "guarantList": [
+      {
+        "guaranteeDeadlineId": 2175,
+        "insuranceCode": "I0002143",
+        "guaranteeDateType": 0,
+        "guaranteeDateUnits": 0,
+        "guaranteeDate": "0",
+        "createId": "H002867",
+        "createName": "王羽",
+        "createTime": 1515067358000,
+        "updateId": "H002867",
+        "updateName": "王羽",
+        "updateTime": 1515067358000
+      },
+      {
+        "guaranteeDeadlineId": 2176,
+        "insuranceCode": "I0002143",
+        "guaranteeDateType": 1,
+        "guaranteeDateUnits": 3,
+        "guaranteeDate": "30",
+        "createId": "H002867",
+        "createName": "王羽",
+        "createTime": 1515067358000,
+        "updateId": "H002867",
+        "updateName": "王羽",
+        "updateTime": 1515067358000
+      }
+    ],
+    "paymentList": [
+      {
+        "paymentId": 2171,
+        "insuranceCode": "I0002143",
+        "paymentDateType": 1,
+        "paymentDate": 20,
+        "createId": "H002867",
+        "createName": "王羽",
+        "createTime": 1515067358000,
+        "updateId": "H002867",
+        "updateName": "王羽",
+        "updateTime": 1515067358000
+      }
+    ],
+    "basicCoverageList": [
+      {
+        "basicCoverageId": 2137,
+        "insuranceCode": null,
+        "basicCoverage": 40000,
+        "createId": null,
+        "createName": null,
+        "createTime": null,
+        "updateId": null,
+        "updateName": null,
+        "updateTime": null
+      },
+      {
+        "basicCoverageId": 2137,
+        "insuranceCode": null,
+        "basicCoverage": 50000,
+        "createId": null,
+        "createName": null,
+        "createTime": null,
+        "updateId": null,
+        "updateName": null,
+        "updateTime": null
+      }
+    ],
+    "productAttachmentList": [
+      {
+        "storageId": 1870,
+        "catalog": "3",
+        "subkeyId": 2143,
+        "fileName": "64785661800496723ssssssss护士节的ssssssssssssssssss.zip",
+        "fileType": 2,
+        "filePath": "M00/00/D5/rBCjRFpOF62AYIJIAAAl5ebsnko574.zip",
+        "fileDesc": "",
+        "fileSize": 9,
+        "isAbsPath": 0,
+        "groupName": "group2",
+        "videoFormat": 0,
+        "isDelete": 0,
+        "createId": "H002867",
+        "createName": "王羽",
+        "createTime": 1515067358000,
+        "updateId": "H002867",
+        "updateName": "王羽",
+        "updateTime": 1515067365000
+      }
+    ]
+  },
+  "status": "0000",
+  "message": "操作成功！",
+  "params": {}
+}

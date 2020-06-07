@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "empNo": null,
+      "customerNo": 18651,
+      "custNo": "200007352381",
+      "customerName": "张速度",
+      "custType": 1,
+      "status": 0,
+      "identityType": 5,
+      "identityNo": "132654199102154698",
+      "phone": "13265648965",
+      "mobileInternet": null,
+      "idnoCheckflag": null,
+      "investFavour": null,
+      "sex": null,
+      "bankPhones": null,
+      "address": null,
+      "customerTier": null,
+      "birthday": null,
+      "ismain": null,
+      "relationType": null,
+      "priProfFlag": null,
+      "isQualifyInvestor": null,
+      "isRegister": null,
+      "dealStatus": null
+    }
+  ],
+  "status": "0000",
+  "message": "操作成功！",
+  "pages": 1,
+  "pageNum": 1,
+  "pageSize": 10,
+  "params": {}
+}

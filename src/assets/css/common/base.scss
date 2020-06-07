@@ -1,0 +1,57 @@
+/*css初始化*/
+/*清除内外边距*/
+body,h1,h2,h3,h4,h5,h6,hr,p,blockquote,dl,dt,dd,ul,ol,li,pre,form,fieldset,legend,button,input,textarea,th,td,img{
+	margin: 0;
+	padding: 0;
+	border: medium none;
+}
+h1,h2,h3,h4,h5,h6{
+	font-size: 100%;
+}
+*{
+	box-sizing:border-box;
+}
+em{
+	font-style: normal;
+}
+/*禁用页面文本复制、禁用系统默认菜单、禁止链接点击高亮的处理*/
+* {
+    -webkit-touch-callout:none; /*系统默认菜单被禁用*/
+    -webkit-user-select:auto; /*禁用文本复制*/
+    -webkit-tap-highlight-color:transparent; /*取消点击链接或者JavaScript可点击元素赋给的高亮背景色*/
+    -webkit-overflow-scrolling: touch; 
+}
+/*重置列表元素*/
+ul,li{
+	list-style: none;
+}
+/*重置超链接元素*/
+a{
+	text-decoration: none;
+	color: #333333;
+}
+a:hover{
+	text-decoration: none;
+}
+/*input消除默认，取消在手机上的点击高亮效果*/
+input{
+	outline: none;
+
+}
+/*重置图片元素*/
+img{
+	border: 0px;
+	vertical-align:middle;
+}
+/*重置表格元素*/
+table{
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+html,body{
+	font-size:11px;
+	font-family:Helvetica;
+	height: 100%;
+	color: #333;
+	
+}

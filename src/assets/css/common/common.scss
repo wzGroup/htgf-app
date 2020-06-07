@@ -1,0 +1,19 @@
+
+
+
+body{
+	// background: $cor-FFCD95;
+}
+
+// .page, .content{
+// 	height: 100%;
+// }
+
+.pageContent{
+	//height: calc(100% - 2.2rem);
+  /*
+   pageTitle提出成公共组件之后，在pageContent内部使用，不用再出去pageTitle的高度
+   */
+	height: 100%;
+	width: 100%;
+}

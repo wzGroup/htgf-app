@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "id": 2259,
+      "insuranceCode": "I0002260",
+      "insuranceName": "333",
+      "currency": 0,
+      "isGroup": 1,
+      "startMoneyInclude": 0,
+      "startMoney": null,
+      "jointCorporation": 0,
+      "channelId": 10308
+    },
+    {
+      "id": 2257,
+      "insuranceCode": "I0002257",
+      "insuranceName": "111",
+      "currency": 0,
+      "isGroup": 0,
+      "startMoneyInclude": 0,
+      "startMoney": null,
+      "jointCorporation": 0,
+      "channelId": 10308
+    },
+    {
+      "id": 2157,
+      "insuranceCode": "TM002076",
+      "insuranceName": "溜溜梅",
+      "currency": 0,
+      "isGroup": 1,
+      "startMoneyInclude": 0,
+      "startMoney": null,
+      "jointCorporation": 0,
+      "channelId": 10307
+    },
+    {
+      "id": 2149,
+      "insuranceCode": "TM002068",
+      "insuranceName": "溜溜梅",
+      "currency": 0,
+      "isGroup": 1,
+      "startMoneyInclude": 0,
+      "startMoney": null,
+      "jointCorporation": 0,
+      "channelId": 10307
+    },
+    {
+      "id": 2147,
+      "insuranceCode": "I0002147",
+      "insuranceName": "张雨蝶哈哈哈哈的保险",
+      "currency": 0,
+      "isGroup": 0,
+      "startMoneyInclude": 0,
+      "startMoney": null,
+      "jointCorporation": 1,
+      "channelId": 10309
+    },
+    {
+      "id": 2146,
+      "insuranceCode": "I0002146",
+      "insuranceName": "张雨蝶上火的保险",
+      "currency": 0,
+      "isGroup": 0,
+      "startMoneyInclude": 0,
+      "startMoney": null,
+      "jointCorporation": 0,
+      "channelId": 10307
+    },
+    {
+      "id": 2143,
+      "insuranceCode": "I0002143",
+      "insuranceName": "可口可乐",
+      "currency": 0,
+      "isGroup": 0,
+      "startMoneyInclude": 0,
+      "startMoney": null,
+      "jointCorporation": 0,
+      "channelId": 10308
+    },
+    {
+      "id": 2136,
+      "insuranceCode": "TM002066",
+      "insuranceName": "混合双打",
+      "currency": 0,
+      "isGroup": 1,
+      "startMoneyInclude": 0,
+      "startMoney": null,
+      "jointCorporation": 0,
+      "channelId": 10307
+    },
+    {
+      "id": 2135,
+      "insuranceCode": "I0002135",
+      "insuranceName": "做头发险",
+      "currency": 0,
+      "isGroup": 0,
+      "startMoneyInclude": 0,
+      "startMoney": null,
+      "jointCorporation": 0,
+      "channelId": 10308
+    },
+    {
+      "id": 2132,
+      "insuranceCode": "TM002065",
+      "insuranceName": "组合险001",
+      "currency": 0,
+      "isGroup": 1,
+      "startMoneyInclude": 0,
+      "startMoney": null,
+      "jointCorporation": 1,
+      "channelId": 10305
+    }
+  ],
+  "status": "0000",
+  "message": "操作成功！",
+  "pages": 2,
+  "pageNum": 1,
+  "pageSize": 10,
+  "params": {}
+}

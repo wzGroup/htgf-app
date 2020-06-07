@@ -1,0 +1,19 @@
+{
+	"total": 154,
+	"data": [{
+		"id": 11201,
+		"clientName": "常冬冬",
+		"ISName": "黄历代",
+		"taskResult": 0,
+		"taskName": "接收预约单返回信息测试",
+		"taskParam": "batch:2",
+		"fileLocation": "../../app/sp/tomcat/webapps/ls/FTP/ZEG/HENGTIAN//P00004/2018/1/9/responseP00004_2.xml",
+		"createId": "SYSTEM",
+		"createTime": 1515427200000,
+		"note": null
+	}],
+	"pageSize": 10,
+	"message": "成功",
+	"pageNum": 1,
+	"status": "0000"
+}

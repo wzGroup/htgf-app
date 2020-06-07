@@ -1,0 +1,206 @@
+.pageContent{
+  overflow-y: auto;
+}
+#informationDetailWrap{
+  .right{
+    text-align: right;
+    .icon_share3x{
+      font-size: .88rem;
+    }
+  }
+  .coverImg{
+    width: 100%;
+    height: 3.68rem;
+    >img{
+      display: block;
+      width: 100%;
+      height: 100%;
+    }
+  }
+    .contentWrap{
+        padding: .4rem .3rem 0;
+        text-align: left;
+        .contentTitle{
+            // height: .32rem; 
+            font-size: .44rem;
+            line-height: .68rem;
+            font-weight: 600;
+            // font-size: .32rem;
+            color: #272727;
+        }
+        .authorWrap{
+            height: .4rem;
+            line-height: .4rem;
+            margin-top: .2rem;
+            margin-bottom:.32rem;
+            font-size: .24rem;
+            color: #9B9B9B;
+            .post{
+                margin-left: .5rem;
+            }
+        }
+        .line{
+            width: 100%;
+            height: 1px;
+            margin-bottom: .09rem;
+            background: #D8D8D8;
+            
+        }
+        .timeWrap{
+            margin-bottom:.3rem;
+            height: .4rem;
+            line-height: .4rem;
+            font-size: .24rem;
+            color: #9B9B9B;
+            .time{
+                margin-left: .5rem;
+            }
+        }
+        
+    }
+    .videoWrap{
+        >img{
+            width: auto;
+            max-width: 100%;
+        }
+        .artImg{
+            width: 100%;
+            position:relative;
+            img{
+                width: auto;
+                max-width: 100%;
+            }
+            span{
+                display:inline-block;
+                background:#FFFFFF;
+                width: 0.4rem;
+                height:0.4rem;
+                position: absolute;
+                top:50%;
+                left: 50%;
+                margin:-0.2rem 0 0 -0.2rem;
+    
+            }
+        }
+        .artTitle{
+            padding:0.3rem;
+            p{
+                font-size: 0.44rem;
+                font-weight:500;
+                color:#000000;
+                line-height:0.68rem;
+            }
+        }
+        .videoButton{
+    
+            display:none;
+            .mask{
+                display:inline-block;
+                position:absolute;
+                left: 0;
+                top:0;
+                width: 100%;
+                height:100%;
+                background:rgba(0, 0, 0, 0.2);
+            }
+    
+        }
+    
+        .videoPlayIcon{
+            position: absolute;
+            top:50%;
+            left:50%;
+            margin:-0.35rem 0 0 -0.35rem;
+        }
+        .play{
+            height: auto;
+            background:transparent;
+        }
+
+    }
+    
+    
+    // 视频插件
+    .artHeaderCont > img {
+        width: auto;
+        max-width: 100%;
+      }
+      
+      .artHeaderCont .artImg {
+        width: 100%;
+        position: relative;
+      }
+      
+      .artHeaderCont .artImg img {
+        width: auto;
+        max-width: 100%;
+      }
+      
+      .artHeaderCont .artImg span {
+        display: inline-block;
+        background: #fff;
+        width: 0.5rem;
+        height: 0.5rem;
+        position: absolute;
+        top: 44%;
+        left: 47%;
+        margin: -0.2rem 0 0 -0.2rem;
+      }
+      
+      .artHeaderCont .artTitle {
+        padding: 0.3rem;
+      }
+      
+      .artHeaderCont .artTitle p {
+        font-size: 0.44rem;
+        font-weight: 500;
+        color: #000;
+        line-height: 0.68rem;
+      }
+      
+      .artHeaderCont .videoButton {
+        // display: none;
+      }
+      
+      .artHeaderCont .videoButton .mask {
+        display: inline-block;
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.2);
+      }
+      
+      .artHeaderCont .videoPlayIcon {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin: -0.35rem 0 0 -0.35rem;
+      }
+      
+      .artHeaderCont .audioPlay {
+        background: #f3f5f7;
+        border-radius: 8px;
+      }
+      
+      .artHeaderCont .play {
+        height: auto;
+        background: transparent;
+      }
+      
+      .artHeaderCont #audioPlayer {
+        margin-top: 0.05rem;
+        padding-top: 0.05rem;
+        padding-right: 0.05rem;
+      }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}

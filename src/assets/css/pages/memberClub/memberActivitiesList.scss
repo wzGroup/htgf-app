@@ -1,0 +1,189 @@
+// 会员活动列表页面
+
+.pageContent {
+    background-color: #FBFCFD;
+
+    .mint-search {
+        height: .6rem;
+        width: 93%;
+        margin: .15rem 0 0 0;
+    }
+
+    .mint-searchbar-inner {
+        background-color: #ECEDEF;
+        border: none;
+    }
+
+    .mintui-search {
+      padding-bottom: 0rem;
+        &:before {
+            content: "\E604";
+            font-size: .22rem;
+            color: #C5C8CD;
+            padding-left: 0.1rem;
+        }
+    }
+
+    .mint-searchbar-core {
+        vertical-align: center;
+        font-size: .23rem;
+        padding-left: .1rem;
+        line-height: 0.45rem;
+        color: #333;
+        background-color: #ECEDEF;
+        padding-bottom: 0.01rem;
+    }
+}
+
+.activityCityBox {
+    width: 1.5rem;
+    position: absolute;
+    right: 0;
+    top: 0;
+    text-align: left;
+    font-size: .3rem;
+    color: #272727;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+    .choice {
+        padding-right: 0.05rem;
+        text-align: right !important;
+        width: .91rem;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .dropList {
+        position: absolute;
+        right: 0.3rem;
+        top: 0;
+        font-size: .2rem;
+        color: #9C9C9C;
+    }
+}
+
+.nav {
+    display: flex;
+    height: 1rem;
+    width: 100%;
+    background: white;
+    border-bottom: 1px solid #E7E9ED;
+
+    div {
+        flex: 1;
+        text-align: center;
+        line-height: .84rem;
+        color: #9B9B9B;
+        font-size: .28rem;
+        position: relative;
+
+        &.selected {
+            color: #272727;
+            height: 1rem;
+            font-weight: 700;
+
+            &::after {
+                position: absolute;
+                height: 0.08rem;
+                bottom: 0rem;
+                left: 50%;
+                margin-left: -.6rem;
+                content: '';
+                width: 1.2rem;
+                background: linear-gradient(to right, #6C83C9 0%, #061D6A 100%);
+                border-radius: .028rem;
+            }
+        }
+    }
+}
+
+.mint-loadmore-content {
+    background-color: #FBFCFD;
+}
+
+.card {
+    position: relative;
+    width: 92%;
+    background-color: white;
+    margin: .3rem;
+    border-radius: .16rem;
+    overflow: hidden;
+    box-shadow: 0 0.01rem 0.06rem rgba(0, 0, 0, 0.2);
+
+    .activityListBox {
+        height: 2.8rem;
+        position: relative;
+        border-radius: .16rem .16rem 0 0;
+        overflow: hidden;
+
+        img {
+            width: 100%;
+            height: 100%;
+        }
+
+        i {
+            position: absolute;
+            line-height: .47rem;
+            font-family: PingFangSC-Regular;
+            font-size: .24rem;
+            color: white;
+            background-image: linear-gradient(-225deg, #15255B 0%, #475A95 100%);
+            border-radius: .06rem;
+            padding: .001rem .12rem;
+            bottom: .4rem;
+            left: .32rem;
+            font-style: normal;
+        }
+
+        .replayBtn {
+            position: absolute;
+            background: linear-gradient(135deg, rgba(71, 90, 149, 1) 0%, rgba(3, 19, 73, 1) 100%);
+            border-radius: 0 0 .08rem .08rem;
+            top: 0;
+            right: .2rem;
+            padding: .04rem .12rem;
+            color: white;
+            font-size: .24rem;
+        }
+    }
+
+    .activityListBottomBox {
+        height: 1.28rem;
+        width: 100%;
+        padding: 0 .3rem;
+
+        h5 {
+            margin-top: .12rem;
+            font-size: .32rem;
+            color: #272727;
+            font-weight: 600;
+            letter-spacing: 0;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            width: 100%;
+            white-space: nowrap;
+        }
+
+        p {
+            font-family: PingFangSC-Regular;
+            font-size: .24rem;
+            color: #9B9B9B;
+            letter-spacing: 0;
+            margin-top: .13rem;
+
+            i {
+                display: inline-block;
+                font-style: normal;
+                padding: .015rem .065rem;
+                border-radius: .08rem;
+                margin-right: .16rem;
+                background-image: linear-gradient(-135deg, #DDCDA4 0%, #FFF6E2 100%);
+                color: #976026;
+                letter-spacing: 0;
+            }
+        }
+    }
+}

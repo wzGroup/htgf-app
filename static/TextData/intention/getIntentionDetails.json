@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": 11459,
+    "channelId": 10307,
+    "reservationId": "TH201801040191",
+    "customerName": "张****",
+    "mobile": "187****0000",
+    "identityType": 0,
+    "identityNo": "120****013",
+    "productCode": "TM002066",
+    "productName": "混合双打",
+    "channelName": "太平洋财险",
+    "insuranceGenre": 0,
+    "insuranceType": "0",
+    "explaination": "123",
+    "isCode": "H014285",
+    "isName": "武婷婷",
+    "empNo": "H006441",
+    "empName": "窦杰",
+    "submitTime": "2018-01-04 11:08",
+    "updateTime": "2018-01-04 11:20",
+    "comment": "",
+    "status": 2
+  },
+  "status": "1000",
+  "message": "操作成功！",
+  "params": {}
+}

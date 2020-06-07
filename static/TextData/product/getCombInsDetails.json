@@ -1,0 +1,173 @@
+{
+  "data": [
+    {
+      "id": 2257,
+      "insuranceCode": "I0002257",
+      "insuranceName": "111",
+      "channelId": null,
+      "channelName": null,
+      "insuranceType": 0,
+      "insuranceCategory": null,
+      "insuranceClassify": null,
+      "insuranceKindCode": null,
+      "currency": null,
+      "isGroup": null,
+      "financialNo": null,
+      "startMoneyInclude": 0,
+      "startMoney": null,
+      "maxInsureShare": 11,
+      "calmnessDate": 0,
+      "insureNotice": null,
+      "insureDuty": null,
+      "memo": null,   
+      "insuranceStatus": null,
+      "createId": null,
+      "createName": null,
+      "createTime": null,
+      "updateId": null,
+      "updateName": null,
+      "updateTime": null,
+      "channelCode": null,
+      "channelType": null,
+      "insuranceFatherGenre": null,
+      "insuranceSonType": null,
+      "jointCorporation": null,
+      "isDelete": null,
+      "guarantList": [
+        {
+          "guaranteeDeadlineId": 2210,
+          "insuranceCode": "I0002257",
+          "guaranteeDateType": 0,
+          "guaranteeDateUnits": 0,
+          "guaranteeDate": "0",
+          "createId": "H018433",
+          "createName": "费立",
+          "createTime": 1515988995000,
+          "updateId": "H018433",
+          "updateName": "费立",
+          "updateTime": 1515988995000
+        },
+        {
+          "guaranteeDeadlineId": 2210,
+          "insuranceCode": "I0002257",
+          "guaranteeDateType": 1,
+          "guaranteeDateUnits": 0,
+          "guaranteeDate": "20",
+          "createId": "H018433",
+          "createName": "费立",
+          "createTime": 1515988995000,
+          "updateId": "H018433",
+          "updateName": "费立",
+          "updateTime": 1515988995000
+        }
+      ],
+      "paymentList": [
+        {
+          "paymentId": 2209,
+          "insuranceCode": "I0002257",
+          "paymentDateType": 2,
+          "paymentDate": 30,
+          "createId": "H018433",
+          "createName": "费立",
+          "createTime": 1515988995000,
+          "updateId": "H018433",
+          "updateName": "费立",
+          "updateTime": 1515988995000
+        }
+      ],
+      "basicCoverageList": null,
+      "productAttachmentList": []
+    },
+    {
+      "id": 2258,
+      "insuranceCode": "I0002258",
+      "insuranceName": "22",
+      "channelId": null,
+      "channelName": null,
+      "insuranceType": 1,
+      "insuranceCategory": null,
+      "insuranceClassify": null,
+      "insuranceKindCode": null,
+      "currency": null,
+      "isGroup": null,
+      "financialNo": null,
+      "startMoneyInclude": 0,
+      "startMoney": null,
+      "maxInsureShare": 22,
+      "calmnessDate": 0,
+      "insureNotice": null,
+      "insureDuty": null,
+      "memo": null,
+      "insuranceStatus": null,
+      "createId": null,
+      "createName": null,
+      "createTime": null,
+      "updateId": null,
+      "updateName": null,
+      "updateTime": null,
+      "channelCode": null,
+      "channelType": null,
+      "insuranceFatherGenre": null,
+      "insuranceSonType": null,
+      "jointCorporation": null,
+      "isDelete": null,
+      "guarantList": [
+        {
+          "guaranteeDeadlineId": 2211,
+          "insuranceCode": "I0002258",
+          "guaranteeDateType": 0,
+          "guaranteeDateUnits": 0,
+          "guaranteeDate": "0",
+          "createId": "H018433",
+          "createName": "费立",
+          "createTime": 1515989025000,
+          "updateId": "H018433",
+          "updateName": "费立",
+          "updateTime": 1515989025000
+        }
+      ],
+      "paymentList": [
+        {
+          "paymentId": 2210,
+          "insuranceCode": "I0002258",
+          "paymentDateType": 2,
+          "paymentDate": 25,
+          "createId": "H018433",
+          "createName": "费立",
+          "createTime": 1515989025000,
+          "updateId": "H018433",
+          "updateName": "费立",
+          "updateTime": 1515989025000
+        }
+      ],
+      "basicCoverageList": [
+        {
+          "basicCoverageId": 2137,
+          "insuranceCode": null,
+          "basicCoverage": 40000,
+          "createId": null,
+          "createName": null,
+          "createTime": null,
+          "updateId": null,
+          "updateName": null,
+          "updateTime": null
+        },
+        {
+          "basicCoverageId": 2137,
+          "insuranceCode": null,
+          "basicCoverage": 50000,
+          "createId": null,
+          "createName": null,
+          "createTime": null,
+          "updateId": null,
+          "updateName": null,
+          "updateTime": null
+        }
+      ],
+      "productAttachmentList": []
+    }
+  ],
+  "status": "0000",
+  "message": "操作成功！",
+  "params": {}
+}
